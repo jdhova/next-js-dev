@@ -1,0 +1,12 @@
+
+.home{
+  text-align: center;
+  color: blue;
+}
+.home p{
+  color: black;
+}
+.home h4{
+  max-width:1100px;
+  text-align: center !important;
+}

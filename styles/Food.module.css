@@ -1,0 +1,14 @@
+.food{
+    color: red;
+
+    
+}
+.food button{
+    border-radius: 5px;
+    margin-bottom: 20px;
+
+
+}
+.food button:hover{
+    color: blanchedalmond;
+}
