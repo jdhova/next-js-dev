@@ -14,12 +14,6 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 1. Aayushi shah-N01523081 and
-
-## 2. Jude Okagu -N01407704
-
-## Project 3: Next JS Website
-
 ### Project Description
 
 ```
