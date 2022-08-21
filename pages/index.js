@@ -17,17 +17,15 @@ export default function Home() {
         
         <meta name='food'decription="Best resturant in town" />
       </Head>
-        <h1 className='text-center'>AUTHENTIC TRADITIONAL AND MODERN INDIAN CUISINE IN TORONTO</h1>
-        <p className='text-center'>
-          We serve the best authentic, traditional and modern Indian cuisine 
+      <h1 className='text-center'>GIFTS DELIGHT AUTHENTIC TRADITIONAL AND MODERN <br></br>NIGERIAN CUISINE IN LAGOS.</h1>
+      <p className='text-center'>
+          We serve the best authentic, traditional and modern Nigerian cuisine 
         in Toronto. We have  also got the largest collection of cuisines in the country.
         </p>
         <h4 className='text-danger text-center'>
-          Indian food is world-renowned for its tantalising 
-        flavours, spiciness and enormous variety. Many of the spices we now take for granted pepper, 
-        cardamom and turmeric hail from Indias plains and jungles. The flavour of each Indian dish 
-        is a carefully judged balance of herbs, seasonings and spices, and each cook carefully 
-        maintains their own recipe for garam masala literally hot mix.
+        Naija Cuisines Restaurant is a full service restaurant specializing in authentic West African cuisines. For more than 3 years we have earned a reputation of serving appetizing lunch and dinner, each carefully prepared to give you the rich taste of popular African dishes.
+
+        We invite you to experience the wonderful taste of African cuisines, from the spicy and tasty, to the downright mind-blowing. It’s all here at Naija cuisines..
         </h4>
         </div>
     </div>
